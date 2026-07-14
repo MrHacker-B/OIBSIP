@@ -86,6 +86,6 @@ BMI = Weight (kg) / Height² (m²)
 
 ## Author
 
-Name: Harsh
+Name: Singh Badrivishal Rananjay
 
 Python Advanced BMI Calculator Project
